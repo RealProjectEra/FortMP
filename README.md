@@ -1,14 +1,9 @@
-# FortMP
-Powerful 1;1 Universal Fortnite Gameserver
+# Project Reboot 3.0
 
-# We support a variety of versions!
-Version 1.7.2 to 15.XX
+S3-S15
 
-# Current Developers
-danii, sizzy, mix and AidasP
+## TODO
 
-![image](https://github.com/RealProjectEra/FortMP/assets/142556538/ec1af9bf-288b-455a-b9c8-1d72184642a7)
-Get right in and host for your friends or join your friends!
-
-We appreciate you visitng our repository
-# THANK YOU!
+- Rewrite picking up code.
+- Rewrite dllmain
+- Move hooking to each class (for example, AFortGameModeAthena::InitHooks).
