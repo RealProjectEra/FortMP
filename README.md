@@ -7,7 +7,7 @@ Version 1.7.2 to 15.XX
 # Current Developers
 danii, sizzy, mix and AidasP
 
-![image](https://github.com/RealProjectEra/FortMP/assets/142556538/5de222b1-1c30-48ab-b9d8-4319339c2e9e)
+![image](https://github.com/RealProjectEra/FortMP/assets/142556538/ec1af9bf-288b-455a-b9c8-1d72184642a7)
 Get right in and host for your friends or join your friends!
 
 We appreciate you visitng our repository
